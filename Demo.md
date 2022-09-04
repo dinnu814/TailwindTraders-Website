@@ -5,7 +5,7 @@
 ```
 resourceGroup=live-igniteapps30
 location=eastus
-subName="Ignite The Tour"
+subName="Ignite The Tour "
 cosmosDBName=liveapps30twtnosqlge
 sqlDBName=liveapps30twtsql
 webappName=liveigniteapps30
